@@ -2,9 +2,12 @@
 
 <br>
 
-**Hola, soy Evan Bermúdez. Soy un desarrollador de software y analista de datos.** <br>
-Me gusta aprender, investigar e implementar soluciones a problemas, mediante herramientas tecnológicas con el objetivo de facilitar la vida y labores de los demás.
+**Hola, soy Evan Bermúdez. Soy un desarrollador de software y analista de datos.** 
+<br>
+<br>
+Me gusta aprender, investigar e implementar soluciones a problemas, mediante herramientas tecnológicas con el objetivo de facilitar la vida y labores de las demás personas.
 
+## 💻Mis Herramientas 
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
