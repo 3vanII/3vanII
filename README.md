@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="./assets/saludo.gif">
 <!--
 **3vanII/3vanII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
