@@ -1,4 +1,6 @@
-<img src="./assets/saludo.gif">
+<img 
+    height="60px"
+src="./assets/saludo.gif">
 
 <img width="70px" 
     height="70px" 
