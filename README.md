@@ -1,6 +1,9 @@
-<img 
-    height="60px"
-src="./assets/saludo.gif">
+<img src="./assets/saludo.gif">
+
+<br>
+
+**Hola, soy Evan Bermúdez. Soy un desarrollador de software y analista de datos.** <br>
+Me gusta aprender, investigar e implementar soluciones a problemas, mediante herramientas tecnológicas con el objetivo de facilitar la vida y labores de los demás.
 
 <img width="70px" 
     height="70px" 
